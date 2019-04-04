@@ -1,0 +1,2 @@
+# cc
+I love crosscode.
